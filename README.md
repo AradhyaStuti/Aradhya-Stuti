@@ -1,3 +1,5 @@
+![logo](https://github.com/AradhyaStuti/Aradhya-Stuti/blob/main/1748709356321.jpg)
+
 <h1 align="center">Hi 👋, I'm Aradhya Stuti</h1>
 <h3 align="center">I’m an AI/ML Engineer and MERN Stack Developer with a strong interest in building intelligent systems and scalable full-stack applications.</h3>
 
