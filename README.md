@@ -1,88 +1,92 @@
-<h1 align="center">Hi 👋, I'm Aradhya Stuti</h1>
-<h3 align="center">AI/ML Engineer & MERN Stack Developer — building intelligent systems and scalable full-stack applications.</h3>
+# Aradhya Stuti
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6494f3c6-c0b3-4319-8333-4f818349c346" alt="banner" width="100%" />
+**AI/ML Engineer · MERN Full-Stack**
+
+I build production systems across deep learning, RAG pipelines, computer vision, and real-time web. Most of my work starts with curiosity about how something actually works.
+
+🔗 Portfolio · [your-portfolio-link]
+📩 aradhya.mutants@gmail.com
+
+<p>
+  <a href="https://www.linkedin.com/in/aradhya-stuti-9b2b9529a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/AradhyaStuti/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:aradhya.mutants@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AradhyaStuti&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+---
+
+### What I'm working on
+
+- **RouteLM** — LLM course tutor with a pre-retrieval classifier. Off-topic queries get a sub-500ms refusal instead of fabricated citations. Cut the fake-citation rate from 100% to 0% in testing.
+- **NexusMeet** — Encrypted real-time video platform on WebRTC + mediasoup SFU. AES-GCM end-to-end chat with automatic P2P fallback when the SFU is down.
+- **GitlessForge** — Distributed version control built from scratch — branches, merges, diff, blame, stash, reflog — wrapped with a GitHub-style platform (PRs, code review, CI, Kanban).
+- **AI PCB Defect Detection** — ResNet-50 + SSIM two-stage pipeline. Shipped during my Generative AI internship at Infosys Springboard.
+
+Past internships: **Software Developer · Adanas Technology** · **Generative AI Intern · Infosys Springboard**
+
+IEEE-published: *Multimodal Approach for Depression Prediction* — [DOI 10.1109/AECE67531.2025.11386544](https://doi.org/10.1109/AECE67531.2025.11386544)
+
+---
+
+### Stack
+
+**Languages**
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34" height="34" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="34" height="34" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="34" height="34" alt="SQL" />
 </p>
 
-- 📫 Reach me at **aradhya.mutants@gmail.com**
+**Frontend**
 
-<h3 align="left">Connect with me:</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="34" height="34" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="34" height="34" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="34" height="34" alt="CSS3" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="34" height="34" alt="Tailwind" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="34" height="34" alt="Bootstrap" />
+</p>
 
-<table>
-  <tr>
-    <td><a href="https://www.linkedin.com/in/aradhya-stuti-9b2b9529a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
-    <td><a href="https://leetcode.com/u/AradhyaStuti/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a></td>
-  </tr>
-</table>
+**Backend**
 
-<h3 align="left">Languages & Frontend</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="34" height="34" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="34" height="34" alt="Express" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="34" height="34" alt="Django" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="34" height="34" alt="Flask" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="34" height="34" alt="FastAPI" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="80"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python" /></a><br/>Python</td>
-    <td align="center" width="80"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript" /></a><br/>JavaScript</td>
-    <td align="center" width="80"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="sql" /></a><br/>SQL</td>
-    <td align="center" width="80"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5" /></a><br/>HTML5</td>
-    <td align="center" width="80"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3" /></a><br/>CSS3</td>
-    <td align="center" width="80"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react" /></a><br/>React</td>
-    <td align="center" width="80"><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="tailwind" /></a><br/>Tailwind</td>
-    <td align="center" width="80"><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="bootstrap" /></a><br/>Bootstrap</td>
-  </tr>
-</table>
+**Databases & Infra**
 
-<h3 align="left">Backend & Databases</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="34" height="34" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="34" height="34" alt="Redis" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="34" height="34" alt="AWS EC2" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="34" height="34" alt="Linux" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="34" height="34" alt="Docker" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="80"><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs" /></a><br/>Node.js</td>
-    <td align="center" width="80"><a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="express" /></a><br/>Express</td>
-    <td align="center" width="80"><a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="django" /></a><br/>Django</td>
-    <td align="center" width="80"><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" alt="flask" /></a><br/>Flask</td>
-    <td align="center" width="80"><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="fastapi" /></a><br/>FastAPI</td>
-    <td align="center" width="80"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="mongodb" /></a><br/>MongoDB</td>
-    <td align="center" width="80"><a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="redis" /></a><br/>Redis</td>
-  </tr>
-</table>
+**AI/ML**
 
-<h3 align="left">AI / ML</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="34" height="34" alt="PyTorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="34" height="34" alt="TensorFlow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="34" height="34" alt="scikit-learn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="34" height="34" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="34" height="34" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="34" height="34" alt="Jupyter" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="80"><a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="pytorch" /></a><br/>PyTorch</td>
-    <td align="center" width="80"><a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="tensorflow" /></a><br/>TensorFlow</td>
-    <td align="center" width="80"><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit" /></a><br/>scikit-learn</td>
-    <td align="center" width="80"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas" /></a><br/>Pandas</td>
-    <td align="center" width="80"><a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="numpy" /></a><br/>NumPy</td>
-    <td align="center" width="80"><a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="jupyter" /></a><br/>Jupyter</td>
-    <td align="center" width="80"><a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" alt="langchain" /></a><br/>LangChain</td>
-    <td align="center" width="80"><a href="https://ollama.com/" target="_blank"><img src="https://ollama.com/public/icon-32x32.png" width="40" height="40" alt="ollama" /></a><br/>Ollama</td>
-  </tr>
-</table>
+Also working with: LangChain · LangGraph · FAISS · Ollama · Groq · Streamlit · WebRTC · mediasoup · Socket.io
 
-<h3 align="left">DevOps & Tools</h3>
+---
 
-<table>
-  <tr>
-    <td align="center" width="80"><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker" /></a><br/>Docker</td>
-    <td align="center" width="80"><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git" /></a><br/>Git</td>
-    <td align="center" width="80"><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux" /></a><br/>Linux</td>
-    <td align="center" width="80"><a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="aws" /></a><br/>AWS EC2</td>
-    <td align="center" width="80"><a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="postman" /></a><br/>Postman</td>
-    <td align="center" width="80"><a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40" alt="streamlit" /></a><br/>Streamlit</td>
-  </tr>
-</table>
+### Get in touch
 
-<h3 align="left">GitHub Stats:</h3>
+Open to internships and entry-level roles in SDE, AI/ML, and full-stack.
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/github/followers/AradhyaStuti?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="followers" /></td>
-    <td><img src="https://img.shields.io/github/stars/AradhyaStuti?label=Stars&style=for-the-badge&color=0e75b6&logo=github" alt="stars" /></td>
-    <td><a href="https://github.com/AradhyaStuti?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-0e75b6?style=for-the-badge&logo=github" alt="repos" /></a></td>
-  </tr>
-</table>
+- LinkedIn — [aradhya-stuti](https://www.linkedin.com/in/aradhya-stuti-9b2b9529a)
+- Email — aradhya.mutants@gmail.com
+- LeetCode — [AradhyaStuti](https://leetcode.com/u/AradhyaStuti/)
